@@ -1,5 +1,3 @@
-# Mid-Project-Feature-importance-influences-on-good-and-bad-students
-
 # Data Analysis and Machine Learning for Educational Data
 
 This project demonstrates a comprehensive approach to data cleaning, feature engineering, and machine learning using a dataset related to educational performance. The workflow includes data preprocessing, outlier detection, feature importance evaluation, and model training using various techniques.
